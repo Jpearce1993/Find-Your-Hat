@@ -15,7 +15,7 @@ This project was assigned from Codecademy in order to give more practice using c
 in Javascript.
 
 ## Screenshots
-(./img/screenshot.jpg)
+![Example screenshot](screenshot.jpg)
 
 ## Technologies
 * JavaScript
