@@ -15,7 +15,7 @@ This project was assigned from Codecademy in order to give more practice using c
 in Javascript.
 
 ## Screenshots
-![Example screenshot](screenshot.jpg)
+<img src="./screenshot.jpg" alt="Find Your Hat Game screenshot">
 
 ## Technologies
 * JavaScript
