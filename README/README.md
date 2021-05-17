@@ -15,7 +15,7 @@ This project was assigned from Codecademy in order to give more practice using c
 in Javascript.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.jpg)
+(./img/screenshot.jpg)
 
 ## Technologies
 * JavaScript
@@ -38,4 +38,4 @@ To-do list:
 Project is: _finished_ but improvements could easily be created and implemented if project is revisited.
 
 ## Contact
-Created by [@jonahpearce](https://www.jonahpearce.com - feel free to contact me!
+Created by [@jpearce1993](https://www.jonahpearce.com - feel free to contact me!)
