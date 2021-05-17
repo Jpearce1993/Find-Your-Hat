@@ -15,7 +15,7 @@ This project was assigned from Codecademy in order to give more practice using c
 in Javascript.
 
 ## Screenshots
-<img src="./screenshot.jpg" alt="Find Your Hat Game screenshot">
+![screenshot](https://user-images.githubusercontent.com/73681303/118554392-3cabfd00-b716-11eb-987d-9b12e167a371.JPG)
 
 ## Technologies
 * JavaScript
