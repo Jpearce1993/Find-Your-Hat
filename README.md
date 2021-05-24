@@ -45,4 +45,4 @@ To-do list:
 Project is: _finished_ but improvements could easily be created and implemented if project is revisited.
 
 ## Contact
-Created by [@jpearce1993](https://www.jonahpearce.com - feel free to contact me!)
+Created by [@jpearce1993](http://www.jonahpearce.com) - feel free to contact me!
